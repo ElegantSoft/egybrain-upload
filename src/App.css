@@ -1,0 +1,12 @@
+.modal-new {
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  position: absolute;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
